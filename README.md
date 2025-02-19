@@ -57,4 +57,10 @@
 📍 **Universidad de Manizales**  
 ![UM](https://img.shields.io/badge/Universidad%20de%20Manizales-002855?style=for-the-badge&logoColor=white)  
 
+## 📊 Mis estadísticas en GitHub
+
+![Sofía González's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical)
+
 
