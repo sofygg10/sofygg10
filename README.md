@@ -1,5 +1,5 @@
 ## Hi there 👋
-/assets/img/banner.png
+/main/img/banner.png
 
 
 <!--
