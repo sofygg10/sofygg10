@@ -49,5 +49,12 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
 
+# 🎓 Educación  
+
+📍 **Universidad Autónoma de Manizales**  
+![UAM](https://img.shields.io/badge/Universidad%20Autónoma%20de%20Manizales-00509D?style=for-the-badge&logoColor=white)  
+
+📍 **Universidad de Manizales**  
+![UM](https://img.shields.io/badge/Universidad%20de%20Manizales-002855?style=for-the-badge&logoColor=white)  
 
 
