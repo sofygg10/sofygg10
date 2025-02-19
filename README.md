@@ -59,8 +59,11 @@
 
 ## 📊 Mis estadísticas en GitHub
 
-![Sofía González's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+## 📊 Mis estadísticas en GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical)
+![Sofía González's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofygg10&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofygg10&layout=compact&theme=radical)
+
 
 
