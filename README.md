@@ -11,3 +11,10 @@
 ✔️ **Gestión de Proyectos:** Trabajo con metodologías **ágiles (SCRUM)** y estructuras eficientes.  
 
 💻 Actualmente, optimizo sitios web y ayuda con estrategias digitales para el crecimiento de negocios en el mundo digital.  
+## 🌐 Encuéntrame en Redes Sociales  
+
+📸 **Instagram:** [@sofia_gonzalezg10]([https://www.instagram.com/tu_usuario](https://www.instagram.com/sofia_gonzalezg10/))  
+✉️ **Gmail:** [sofygonzalez1012@gmail.com](mailto:sofygonzalez1012@gmail.com)  
+💼 **LinkedIn:** [sofia gonzalez garcia]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/sofia-gonzalez-63b192244/))  
+
+🚀 ¡Hablemos y creemos algo increíble juntos!  
