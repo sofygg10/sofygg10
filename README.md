@@ -1,5 +1,5 @@
 ## Hi there 👋
-/assets/img/electrocat.png
+/assets/img/banner.png
 
 
 <!--
