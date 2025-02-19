@@ -19,3 +19,34 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sofia_gonzalezg10/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573001234567)
 
+# 🚀 Tecnologías que más uso  
+
+🔎 **Herramientas SEO**  
+![SEMrush](https://img.shields.io/badge/SEMrush-FE7139?style=for-the-badge&logo=semrush&logoColor=white)  
+![Mangools](https://img.shields.io/badge/Mangools-FFCD00?style=for-the-badge&logo=mangools&logoColor=black)  
+![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-4285F4?style=for-the-badge&logo=google-search-console&logoColor=white)  
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-F9AB00?style=for-the-badge&logo=google-analytics&logoColor=white)  
+
+🖥 **Desarrollo Web**  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+---
+
+# 🛠 Herramientas que conozco  
+
+🕷 **SEO Avanzado**  
+![Screaming Frog](https://img.shields.io/badge/Screaming%20Frog-00A500?style=for-the-badge&logoColor=white)  
+
+💻 **Desarrollo y Programación**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)  
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+
+
+
