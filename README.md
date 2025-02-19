@@ -63,7 +63,5 @@
 
 ![Sofía González's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofygg10&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofygg10&layout=compact&theme=radical)
-
 
 
